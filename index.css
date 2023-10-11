@@ -1,0 +1,80 @@
+
+    p{
+        color: rgb(224, 150, 13);
+        background-color: rgb(218, 208, 230);
+    }
+    
+    body{
+    
+        font-size: 20px 20px 20px;
+        background-color: rgb(161, 216, 216);
+    }
+    
+    ol{
+        color: blueviolet;
+    }
+
+    ul{
+        color: rgb(135, 13, 235);
+    }
+
+   
+ 
+      h1{
+        color: red;
+        
+      }
+
+      h2{
+        color: black;
+      }
+    
+  
+     
+    table th, td {
+        border: 1px solid black;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50px;
+        align: margin-right;
+        
+      }
+
+      tbody, tr, td{
+             background-color: white;
+
+             color: rgba(7, 247, 7, 0.836);
+        font-size: larger;
+        size: 5px;
+      }
+
+      
+
+     
+      th{  color: rgb(9, 245, 115);
+            background-color: white;
+            text-align: center;
+      }
+      
+
+      
+      
+          hr {
+            display: block;
+            margin-top: 0.5em;
+            margin-bottom: 0.5em;
+            margin-left: auto;
+            margin-right: auto;
+            border-style: inset;
+            border-width: 1px;
+          }
+
+          div {
+            width: 300px;
+            border: 15px solid green;
+            padding: 50px;
+            margin: 50px;
+            
+            
+          }
+          
